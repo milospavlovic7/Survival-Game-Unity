@@ -1,3 +1,5 @@
+![Gameplay Screenshot](8.png)
+
 itch.io link: https://milospavlovic7.itch.io/escape-from-tabija
 
 # Escape from Tabija  
