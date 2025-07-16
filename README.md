@@ -1,3 +1,5 @@
+itch.io link: https://milospavlovic7.itch.io/escape-from-tabija
+
 # Escape from Tabija  
 *A top-down roguelike survival game built in Unity (C#)*  
 
